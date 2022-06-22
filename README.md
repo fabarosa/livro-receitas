@@ -6,3 +6,4 @@ Bem-vinde ao livros
 
 - strogonoff
 - pave
+- bolo de cenoura
